@@ -1,7 +1,8 @@
 # Analysis of mental health disorders around the globe 1990-2017
 I wanted to do an analysis in Healthcare and one where I can use maps, so why wouldn't I do it at the same time?  
+  
 My source was Kaggle: <a href='https://www.kaggle.com/datasets/thedevastator/uncover-global-trends-in-mental-health-disorder'>Global Trends in Mental Health Disorder</a>
-
+  
 The dataset contains the mental health series of all the countries in the following mental disorders:
 - schizophrenia,
 - bipolar,
@@ -40,7 +41,7 @@ The biggest decrease is even more diversified, but there are countries where onl
 These unfortunate ones are Australia, Venezuela, Saudi Arabia, Yemen, Egypt, Indonesia, Poland, Belarus, Ireland and some others.
 
 ## Investigating the most serious change related the whole globe
-Lastly, I wanted to see the most serious disorders related the whole globe.
+Lastly, I wanted to see the most serious disorders related the whole globe.  
 The results are the followings:
   
 | Disorder              | Change     |
@@ -53,4 +54,4 @@ The results are the followings:
 | Depression            | - 0.0456 % |
 | Alcohol use disorders | + 0.0369 % |
   
-Lastly, I made two plots regarding to depression and drug usage, which were the most decreasing and increasing disorders when examined globally. The plot shows every countries' outcome.
+In the end, I made two plots regarding to depression and drug usage, which were the most decreasing and increasing disorders when examined globally. The plot shows every countries' outcome.
