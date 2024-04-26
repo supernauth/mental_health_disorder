@@ -1,7 +1,7 @@
 # Analysis of mental health disorders around the globe 1990-2017
 I wanted to do an analysis in Healthcare and one where I can use maps, so why wouldn't I do it at the same time?  
   
-My source was Kaggle: <a href='https://www.kaggle.com/datasets/thedevastator/uncover-global-trends-in-mental-health-disorder'>Global Trends in Mental Health Disorder</a>
+My source was Kaggle: <a href='https://www.kaggle.com/datasets/thedevastator/uncover-global-trends-in-mental-health-disorder'>Global Trends in Mental Health Disorder</a>	
   
 The dataset contains the mental health series of all the countries in the following mental disorders:
 - schizophrenia,
@@ -11,6 +11,8 @@ The dataset contains the mental health series of all the countries in the follow
 - drug use,
 - depression,
 - alcohol use.
+
+<img src="illustration.png" style="width: 854px; height: 444px; margin: 10px; border: 2px solid #000; box-sizing: border-box;">
 
 ## The progress
 Firstly, I made a plot about alcohol use disorders, since I thought it is the main concern in Hungary. It turned out, it is not. But it is a serious issue in the former USSR countries.
