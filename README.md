@@ -31,4 +31,26 @@ Depression changed much in Africa, India, Pakistan, in the Balkan, in the small 
 Anxiety's change is meaningful in Canada, Mexico, Brazil, China, Italy, Somalia.
 
 ## Looking for the disorder with biggest increase per country
+There is no country where only decrease has taken place.
+Drug use disorders can be said the most serious increasing one. USA, Canada, Northern Africa, Middle East, Western Europe, Middle Asia are its victims.
+The second one is anxiety, but it's worth taking a look at the map.
 
+## Looking for the disorder with biggest decrease per country
+The biggest decrease is even more diversified, but there are countries where only increase has happened.
+These unfortunate ones are Australia, Venezuela, Saudi Arabia, Yemen, Egypt, Indonesia, Poland, Belarus, Ireland and some others.
+
+## Investigating the most serious change related the whole globe
+Lastly, I wanted to see the most serious disorders related the whole globe.
+The results are the followings:
+  
+| Disorder              | Change     |
+|-----------------------|------------|
+| Schizophrenia         | + 0.0051 % |
+| Bipolar disorder      | + 0.0074 % |
+| Eating disorders      | + 0.0391 % |
+| Anxiety disorders     | + 0.0422 % |
+| Drug use disorders    | + 0.0903 % |
+| Depression            | - 0.0456 % |
+| Alcohol use disorders | + 0.0369 % |
+  
+Lastly, I made two plots regarding to depression and drug usage, which were the most decreasing and increasing disorders when examined globally. The plot shows every countries' outcome.
