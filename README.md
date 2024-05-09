@@ -23,8 +23,10 @@ Then, I examined the highest and lowest disorder per country. The top ones were 
 
 ## Investigating Hungary and the Eastern Block
 1989 was a great turning point in Hungary's history with the withdrawal of the Russian troops. Thus, I considered it to have a positive effect in mental health, and it did exert the depression and alcohol use levels positively.
-Regarding these disorders, I examined them on the former members of the Eastern Block. I did not see a correlation in alcohol use, but I could see a consequent decrease in the level of depression in all the countries.
-
+Regarding these disorders, I examined them on the former members of the Eastern Block. I did not see a correlation in alcohol use, but I could see a consequent decrease in the level of depression in all the countries.  
+  
+<img src="illustration_2.png" style="width: 930px; height: 562px; margin: 10px; border: 2px solid #000; box-sizing: border-box;">
+  
 ## Investigating the disorder with the greatest change during this period
 When looking for the disorder which undergoes the greatest change, I could not single out one. We can see all of them but schizophrenia and bipolar disorders.
 
@@ -56,4 +58,6 @@ The results are the followings:
 | Depression            | - 0.0456 % |
 | Alcohol use disorders | + 0.0369 % |
   
-In the end, I made two plots regarding to depression and drug usage, which were the most decreasing and increasing disorders when examined globally. The plot shows every countries' outcome.
+In the end, I made two plots regarding to depression and drug usage, which were the most decreasing and increasing disorders when examined globally. The plot shows every countries' outcome.  
+  
+<img src="illustration_3.png" style="width: 1320px; height: 546px; margin: 10px; border: 2px solid #000; box-sizing: border-box;">
